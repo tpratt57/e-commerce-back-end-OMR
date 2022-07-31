@@ -14,10 +14,6 @@ Tag.init(
     },
     tagName: {
         type: DataTypes.STRING,
-        references: {
-            model: 'tag',
-            key: 'id'
-        },
     },
   },
   {
