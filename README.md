@@ -12,8 +12,7 @@
 
 # Description  
 A backend mysql database created for e-commerce. Application was built using MySQL2, dotenv, Express, and Sequelize  
-Below are demonstration gif's of how the application functions
-    
+
 ## User Story
 AS A manager at an internet retail company  
 I WANT a back end for my e-commerce website that uses the latest technologies  
