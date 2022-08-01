@@ -8,15 +8,14 @@ class Product extends Model {}
 
 // set up fields and rules for Product model
 Product.init(
-   {
-    // define columns
+  {
     id: {
       type: DataTypes.INTEGER,
       allowNull: false,
       primaryKey: true,
       autoIncrement: true
     },
-    productName: {
+    product_name: {
       type: DataTypes.STRING,
       allowNull: false
     },
@@ -24,14 +23,14 @@ Product.init(
       type: DataTypes.DECIMAL,
       allowNull: false,
       validate: {
-        isDecimal: true,
+        isDecimal: true
       }
     },
     stock: {
       type: DataTypes.INTEGER,
       allowNull: false,
       defaultValue: 10,
-      validate: {
+      Validate: {
         isNumeric: true
       }
     },
@@ -42,7 +41,7 @@ Product.init(
         key: 'id'
       }
     }
-  }, 
+  },
   {
     sequelize,
     timestamps: false,
