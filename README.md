@@ -1,5 +1,4 @@
-# e-commerce-back-end-OMR  
-
+# E-Commerce-Back-End-OMR
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/tpratt57/e-commerce-back-end-OMR" />
 <p align="center">
@@ -9,6 +8,10 @@
     <img src="https://img.shields.io/badge/mySQL-blue"  />
     <img src="https://img.shields.io/badge/dotenv-green" />
 </p>
+
+# Description  
+A backend mysql database for e-commerce. Application was built using MySQL2, dotenv, Express, and Sequelize
+Below are demonstration gif's of how the application functions
     
 ## User Story
 AS A manager at an internet retail company  
