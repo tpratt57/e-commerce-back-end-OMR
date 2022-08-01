@@ -2,6 +2,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/tpratt57/e-commerce-back-end-OMR" />
+    
 ## User Story
 AS A manager at an internet retail company  
 I WANT a back end for my e-commerce website that uses the latest technologies  
