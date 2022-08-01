@@ -10,7 +10,7 @@
 </p>
 
 # Description  
-A backend mysql database for e-commerce. Application was built using MySQL2, dotenv, Express, and Sequelize
+A backend mysql database created for e-commerce. Application was built using MySQL2, dotenv, Express, and Sequelize
 Below are demonstration gif's of how the application functions
     
 ## User Story
@@ -30,4 +30,21 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia  
 THEN I am able to successfully create, update, and delete data in my database  
 
-https://img.shields.io/github/repo-size/tpratt57/e-commerce-back-end-OMR
+## Table of Contents  
+- [Description](#description)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Table of Contents](#table-of-contents)
+- [Installation](#installation)
+- [Contributing](#contributing)
+
+## Installation  
+npm init -y (or npm init)  
+npm install express  
+npm install mysql2  
+npm install sequelize  
+npm install dotenv  
+
+## Contributing  
+:octocat: [Trevor Pratt](https://github.com/tpratt57)
+
