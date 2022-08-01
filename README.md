@@ -1,5 +1,7 @@
 # e-commerce-back-end-OMR  
 
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/tpratt57/e-commerce-back-end-OMR" />
 ## User Story
 AS A manager at an internet retail company  
 I WANT a back end for my e-commerce website that uses the latest technologies  
@@ -16,3 +18,5 @@ WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON  
 WHEN I test API POST, PUT, and DELETE routes in Insomnia  
 THEN I am able to successfully create, update, and delete data in my database  
+
+https://img.shields.io/github/repo-size/tpratt57/e-commerce-back-end-OMR
